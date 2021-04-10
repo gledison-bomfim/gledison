@@ -41,9 +41,6 @@ Meu foco é estudar análise dados.
 
 <a href="https://page-info-git-master-gledison-bomfim.vercel.app/" target="blank" >Informações</a> </br>
 </br>
-</br>
 <a href="https://twitter.com/gledisonbf" target="blank" >Twitter</a> </br>
 <a href="https://www.linkedin.com/in/gledisonbomfim/" target="blank">Linkedin</a></br>
 <a href = "mailto: gledisonab@gmail.com">Contato</a></br>
-
-
