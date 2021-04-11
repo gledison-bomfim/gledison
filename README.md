@@ -20,7 +20,9 @@ No período que estive a frente da equipe, participei de diversos projetos junto
 
 No inicio de 2021, mudei para Blumenau, onde tive a oportunidade de iniciar uma nova trajetória no Unimestre - Sistema de Gestão Educacional, um dos softwares de gestão educacional mais completo do país. Faço parte da equipe de serviços, que tem por objetivo, implantar, customizar, parametrizar o sistema em clientes novos e também em nossa base de cliente, realizamos configurações de integrações com instituições financeiras e outros sistemas. 
 
-Meu foco é estudar análise dados.
+### Estudos
+
+Meu foco está em estudar análise dados.
 
 ## Principais habilidades:
 
