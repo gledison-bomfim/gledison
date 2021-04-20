@@ -41,10 +41,7 @@ Meu foco está em estudar análise dados.
 - JavaScript;
 - Html e CSS;
 
-<a href="https://page-info-git-master-gledison-bomfim.vercel.app/" target="blank" >Informações</a> </br>
-</br>
-<a href="https://twitter.com/gledisonbf" target="blank" >Twitter</a> </br>
-<a href="https://www.linkedin.com/in/gledisonbomfim/" target="blank">Linkedin</a></br>
-<a href = "mailto: gledisonab@gmail.com">E-mail</a></br>
+<a href="https://page-info-git-master-gledison-bomfim.vercel.app/" target="blank" >Informações de contato</a> </br>
+
 
 ## <a href = "https://github.com/gledison-bomfim/recomendacoes"> Recomendações</a></br>
