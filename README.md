@@ -46,3 +46,18 @@ Meu foco está em estudar análise dados.
 <a href="https://twitter.com/gledisonbf" target="blank" >Twitter</a> </br>
 <a href="https://www.linkedin.com/in/gledisonbomfim/" target="blank">Linkedin</a></br>
 <a href = "mailto: gledisonab@gmail.com">Contato</a></br>
+
+## Recomendações
+
+### Podcast
+*   <a href="https://open.spotify.com/show/5k0Ei0MSg5BuiHshr43aSg?si=1JJUHviZTbecCX_EoUAang" target="blank" >Pizza de Dados</a> </br>
+*   <a href="https://open.spotify.com/show/2p0Vx75OmfsXktyLBuLuSf?si=QBBxOwXRQHeSRiQdhVVD8A" target="blank" >Hipster Ponto Tech</a> </br>
+*   <a href="https://open.spotify.com/show/1oD8x4L9Tzu2hcPRUkfwhh?si=hWVRb404RX2NuBEFBurZ7Q" target="blank" >Buteco.tech</a> </br>
+*   <a href="https://open.spotify.com/show/1oD8x4L9Tzu2hcPRUkfwhh?si=hWVRb404RX2NuBEFBurZ7Q" target="blank" >Data Science Academy
+</a> </br>
+*   <a href="https://open.spotify.com/show/1oMIHOXsrLFENAeM743g93?si=jn0-kPeYRuWh67G5Jp3sSw" target="blank" >Data Hackers</a> </br>
+
+### Cursos
+*    <a href="https://www.datascienceacademy.com.br/pages/home" target="blank" >Data Science Academy</a> </br>
+
+
