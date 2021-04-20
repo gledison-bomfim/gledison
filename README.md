@@ -71,6 +71,6 @@ Meu foco está em estudar análise dados.
 ### Livros
 *   <a href="https://www.amazon.com.br/Introdu%C3%A7%C3%A3o-Programa%C3%A7%C3%A3o-com-Python-Algoritmos/dp/8575227181/ref=asc_df_8575227181/?tag=googleshopp00-20&linkCode=df0&hvadid=379748659420&hvpos=&hvnetw=g&hvrand=7127722680530299922&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001698&hvtargid=pla-811137648888&psc=1" target="blank" >Introdução à Programação com Python: Algoritmos e Lógica de Programação Para Iniciantes</a> </br>
 *   <a href="https://www.amazon.com.br/Python-Fluente-Programa%C3%A7%C3%A3o-Concisa-Eficaz/dp/857522462X/ref=asc_df_857522462X/?tag=googleshopp00-20&linkCode=df0&hvadid=379792215563&hvpos=&hvnetw=g&hvrand=7127722680530299922&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001698&hvtargid=pla-460804277997&psc=1" target="blank" >Python Fluente: Programação Clara, Concisa e Eficaz</a> </br>
-*   <a href="https://www.amazon.com.br/Python-Fluente-Programa%C3%A7%C3%A3o-Concisa-Eficaz/dp/857522462X/ref=asc_df_857522462X/?tag=googleshopp00-20&linkCode=df0&hvadid=379792215563&hvpos=&hvnetw=g&hvrand=7127722680530299922&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001698&hvtargid=pla-460804277997&psc=1" target="blank" >Python Fluente: Programação Clara, Concisa e Eficaz</a> </br>
+
 
 
