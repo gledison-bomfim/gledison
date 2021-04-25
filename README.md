@@ -27,7 +27,7 @@ Meu foco está em estudar análise dados.
 ## Principais habilidades:
 
 - Banco de dados
-    - MySQL
+    - MySQL;
     - PostgreSQL;
     - MongoBD
 - Python;
@@ -44,4 +44,4 @@ Meu foco está em estudar análise dados.
 <a href="https://page-info-git-master-gledison-bomfim.vercel.app/" target="blank" >Informações de contato</a> </br>
 
 
-## <a href = "https://github.com/gledison-bomfim/recomendacoes"> Recomendações</a></br>
+## <a href = "https://github.com/gledison-bomfim/recomendacoes">Recomendações</a></br>
