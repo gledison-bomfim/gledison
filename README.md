@@ -2,7 +2,7 @@
 
 Formando em Ciência da Computação pelo Centro Universitário Unifacvest, Lages, Santa Catarina. Atuo como Consultor de Implantação no Unimestre, Blumenau, Santa Catarina.
 
-Tenho 22 anos, sou natural de São Luiz Gonzaga, Rio Grande do Sul, em 2017 com 18 anos mudei para Lages, Santa Catarina para ingressar no ensino superior. Sou apaixonado por tecnologia, estou sempre buscando novos desafios. Busco ter uma análise crítica na rotina de processos, buscando melhorar e/ou otimizar quando possível. 
+Tenho 22 anos, sou natural de São Luiz Gonzaga, Rio Grande do Sul, em 2017 com 18 anos mudei para Lages, Santa Catarina para ingressar no ensino superior. Sou apaixonado por tecnologia, estou em constrante crescimento profissional e pessoal. Busco ter uma análise crítica na rotina de processos, sempre tentando melhorar e/ou otimizar quando possível. 
 
 Estudo análise de dados e ciência de dados.
 
@@ -12,9 +12,9 @@ Em 2019 tive a oportunidade de me tornar colaborador da Unifacvest, onde minha f
 
 Após dois meses da minha contratação, assumi como Analista de TI, sendo assim, responsável pelo departamento de TI, contratamos mais dois técnicos e então, projetamos e melhoramos processos e projetos da instituição. Sempre tendo muita proximidade com os professores do curso de Ciência da Computação. 
 
-Neste período aperfeiçoei meu conhecimento em sistemas linux, banco de dados, banco de dados e segurança. Fui responsável por projetar um sistema interno, onde o mesmo foi desenvolvido pela minha equipe.
+Neste período aperfeiçoei meu conhecimento em sistemas linux, banco de dados e segurança. Fui responsável por projetar um sistema interno, onde o mesmo foi desenvolvido pela minha equipe.
 
-No período que estive a frente da equipe, participei de diversos projetos junto à equipe de acadêmica e de engenharia. 
+No período que estive como responsável pelo departamento de tecnologia, participei de diversos projetos junto ao time acadêmico e de engenharia. 
 
 ### [Unimestre](https://www.unimestre.com)
 
