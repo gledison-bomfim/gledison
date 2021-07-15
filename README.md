@@ -1,6 +1,6 @@
 # Glédison Bomfim
 
-Formando em Ciência da Computação pelo Centro Universitário Unifacvest, Lages, Santa Catarina. Atuo como Consultor de Implantação no Unimestre, Blumenau, Santa Catarina.
+Formado em Ciência da Computação pelo Centro Universitário Unifacvest, Lages, Santa Catarina. Atuo como Consultor de Implantação no Unimestre, Blumenau, Santa Catarina.
 
 Tenho 22 anos, sou natural de São Luiz Gonzaga, Rio Grande do Sul, em 2017 com 18 anos mudei para Lages, Santa Catarina para ingressar no ensino superior. Sou apaixonado por tecnologia, estou em constrante crescimento profissional e pessoal. Busco ter uma análise crítica na rotina de processos, sempre tentando melhorar e/ou otimizar quando possível. 
 
