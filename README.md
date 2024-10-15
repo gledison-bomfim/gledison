@@ -1,8 +1,10 @@
 # Glédison Bomfim
 
-Formado em Ciência da Computação pelo Centro Universitário Unifacvest, Lages, Santa Catarina. Atuo como Senior Analyst na Supergasbras, Rio de Janeiro.
+Formado em Ciência da Computação pelo Centro Universitário Unifacvest, Lages, Santa Catarina, pós graduado em Engenharia de dados pela Puc Minas, atuo como Senior Analyst na Supergasbras, Rio de Janeiro.
 
-Tenho 26 anos, sou natural de São Luiz Gonzaga, Rio Grande do Sul, em 2017 com 18 anos mudei para Lages, Santa Catarina para ingressar no ensino superior. Sou apaixonado por tecnologia, estou em constrante crescimento profissional e pessoal. Busco ter uma análise crítica na rotina de processos, sempre tentando melhorar e/ou otimizar quando possível. 
+Tenho 26 anos, sou natural de São Luiz Gonzaga, Rio Grande do Sul, em 2017 com 18 anos mudei para Lages, Santa Catarina para ingressar no ensino superior. 
+
+Sou apaixonado por tecnologia, estou em constrante crescimento profissional e pessoal. Busco ter uma análise crítica na rotina de processos, sempre tentando melhorar e/ou otimizar quando possível. 
 
 ### [Unifacvest](https://www.unifacvest.edu.br/inicio)
 
@@ -16,11 +18,10 @@ No período que estive como responsável pelo departamento de tecnologia, partic
 
 ### [Unimestre](https://www.unimestre.com)
 
-No inicio de 2021, mudei para Blumenau, onde tive a oportunidade de iniciar uma nova trajetória no Unimestre - Sistema de Gestão Educacional, um dos softwares de gestão educacional mais completo do país. Faço parte da equipe de serviços, que tem por objetivo, implantar, customizar, parametrizar o sistema em clientes novos e também em nossa base de cliente, realizamos configurações de integrações com instituições financeiras e outros sistemas. 
+No inicio de 2021, mudei para Blumenau, onde tive a oportunidade de iniciar uma nova trajetória no Unimestre - Sistema de Gestão Educacional, um dos softwares de gestão educacional mais completo do país. Faço parte da equipe de serviços, que tem por objetivo, implantar, customizar, parametrizar o sistema em clientes novos e também em nossa base de cliente, realizamos configurações de integrações com instituições financeiras e outros sistemas.
 
-### Estudos
+Em 2021, o Unimestre foi adiquirido e incorporado pela amais educação(amaiseducacao.com.br) e mudei para o Rio de Janeiro, com o desafio de criar a área de dados da empresa, atuando em todas as frentes, engenheiro de dados, analista de dados e até mesmo como cientista de dados, foram muitos desafios, em 2023 assumi ao cargo de coordenador e recebi a coordenação de um outro time, responsável pela construção e manutenção dos relatórios educacionais oficias e customizações para +400 clientes.
 
-Meu foco está em estudar análise dados.
 
 ## Principais habilidades:
 
