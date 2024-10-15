@@ -12,12 +12,19 @@ A Supergasbras é faz parte do grupo SHV, líder mundial na distribuição de GL
 
 Desde 05/2024 estou atuando como Senior Data Analyst.
 
+Atuação na construção de novos projetos de dados:
+- Avaliação e definição de escopo junto ao time de negócio;
+- Construção de modelagem, arquitetura e solução técnica;
+- Construção de projetos de BI;
+Atuando em projeto UX em projetos de dados:
+- Utilização de UX Design e UX Research em projetos que precisam de evoluções;
+- Trabalho buscando entrega de valor ao time de negócio;
+
 Ferramentas:
     Azure
     Databricks
     SQL Server
     Power BI
-
 
 
 ### [Unimestre](https://www.unimestre.com)
