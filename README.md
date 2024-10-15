@@ -21,10 +21,10 @@ Atuando em projeto UX em projetos de dados:
 - Trabalho buscando entrega de valor ao time de negócio;
 
 Ferramentas:
-    Azure
-    Databricks
-    SQL Server
-    Power BI
+- Azure
+- Databricks
+- SQL Server
+- Power BI
 
 
 ### [Unimestre](https://www.unimestre.com)
