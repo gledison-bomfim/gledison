@@ -26,13 +26,26 @@ Ferramentas:
 - SQL Server
 - Power BI
 
+### [amais educação](amaiseducacao.com.br)
+Em 2021, o Unimestre foi adiquirido e incorporado pela amais educação e mudei para o Rio de Janeiro, com o desafio de criar a área de dados da empresa, atuando em todas as frentes, engenheiro de dados, analista de dados e até mesmo como cientista de dados, foram muitos desafios, em 2023 assumi ao cargo de coordenador e recebi a coordenação de um outro time, responsável pela construção e manutenção dos relatórios educacionais oficias e customizações para +400 clientes.
+
+Ferramentas:
+- AWS
+- Databricks
+- Crystal Reports
+- Linux
+- MySQL
+- MongoDB
+- Power BI
 
 ### [Unimestre](https://www.unimestre.com)
 
 No inicio de 2021, mudei para Blumenau, onde tive a oportunidade de iniciar uma nova trajetória no Unimestre - Sistema de Gestão Educacional, um dos softwares de gestão educacional mais completo do país. Faço parte da equipe de serviços, que tem por objetivo, implantar, customizar, parametrizar o sistema em clientes novos e também em nossa base de cliente, realizamos configurações de integrações com instituições financeiras e outros sistemas.
 
-Em 2021, o Unimestre foi adiquirido e incorporado pela amais educação(amaiseducacao.com.br) e mudei para o Rio de Janeiro, com o desafio de criar a área de dados da empresa, atuando em todas as frentes, engenheiro de dados, analista de dados e até mesmo como cientista de dados, foram muitos desafios, em 2023 assumi ao cargo de coordenador e recebi a coordenação de um outro time, responsável pela construção e manutenção dos relatórios educacionais oficias e customizações para +400 clientes.
-
+Ferramentas:
+- Crystal Reports
+- MySQL
+- Linux
 
 
 ### [Unifacvest](https://www.unifacvest.edu.br/inicio)
